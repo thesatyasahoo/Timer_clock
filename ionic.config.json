@@ -1,7 +1,0 @@
-{
-  "name": "timer_clock",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
